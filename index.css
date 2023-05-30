@@ -67,7 +67,6 @@ body {
     height: 500px;
     width: 30%;
     display: grid;
-    top: 80px;
     align-content: space-around;
     justify-content: center;
 }
